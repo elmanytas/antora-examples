@@ -1,0 +1,2 @@
+:attachmentsdir: ../attachments
+:imagesdir: ../images
