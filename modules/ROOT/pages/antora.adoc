@@ -10,7 +10,7 @@ diferentes formatos, ...
 
 Antora es un generador de portales a partir de AsciiDoc, lo cual se suma a la
 facilidad que tiene para transformarse en varios formatos como epub, pdf o html.
-a| image::./antora-gitlab.png[antora-gitlab]
+a| image::./images/antora-gitlab.png[antora-gitlab]
 
 |===
 
